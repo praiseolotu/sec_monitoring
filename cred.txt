@@ -1,0 +1,11 @@
+username: *****
+email: ****@****.com
+password: ******
+
+{row['deposit']:>4}
+
+-------------------NEW UPDATES--------------------
+1. Added support for Naira.
+2. In the retail screen, transfer details eg Account Number , Account Name and Bank is displayed
+3. Float data type used to make it possible for a bit of a product to be purchased. eg 1 park is $50, 0.5 park(or half pack) is $25
+4. Ensured that a barcode scanner can work with this system. 

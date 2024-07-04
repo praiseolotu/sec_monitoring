@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+django-admin-rangefilter = "*"
+django-colorfield = "*"
+django-import-export = "*"
+import-export = "*"
+plotly = "*"
+python-dotenv = "*"
+python-dateutil = "*"
+pytz = "*"
+requests = "*"
+django-jquery = "*"
+django-mathfilters = "*"
+django-admin-logs = "*"
+python-escpos = "*"
+tzdata = "*"
+meson-python = "*"
+numpy = "*"
+pandas = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
